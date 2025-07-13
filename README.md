@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DHEERAJSINGH-10
-- 👀 I’m interested in SOFTARE DEVELOPMENT
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning JAVA 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me .
